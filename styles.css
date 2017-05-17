@@ -1,0 +1,10 @@
+table, th, td { 
+  border: 1px solid black;
+  padding: 1em;
+}
+
+#item-form { 
+  display: none;
+  border: 1px solid black;
+  padding: 1em;
+}
